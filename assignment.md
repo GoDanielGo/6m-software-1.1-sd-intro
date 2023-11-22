@@ -25,7 +25,7 @@ text-shadow:  white 1px 1px;
 
 4. What is the css selector of the fourth element?
 ```
-Your answer here
+nth-child(6)
 ```
 
 5. What is the code you use to keep the blue box within the purple?
