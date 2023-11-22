@@ -30,7 +30,8 @@ nth-child(6)
 
 5. What is the code you use to keep the blue box within the purple?
 ```
-Your answer here
+Change the blue border size from 8px to 1px
+border: mediumblue 1px solid;
 ```
 
 > hint: you should apply box-sizing property to the `.child` class. Make the changes on the developer's tool to see immediate UI change.
